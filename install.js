@@ -15,7 +15,7 @@ module.exports = {
         params: {
           venv: "env",
           path: "app",
-          // xformers: true
+          xformers: true
           // triton: true
           // sageattention: true
         }
